@@ -1,0 +1,57 @@
+@media (max-width: 575.98px) {
+  .nav-link {
+    padding: 0.3rem !important;
+  }
+}
+
+.ui-autocomplete-input,
+.ui-corner-all,
+#berat {
+  font-size: 0.875em !important;
+  font-weight: 400 !important;
+}
+
+#loading {
+  text-align: center;
+}
+
+.text-primary {
+  color: #382b73 !important;
+}
+
+.text-secondary {
+  color: #35abc0 !important;
+}
+
+a {
+  color: #382b73 !important;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.badge-primary {
+  color: #fff;
+  background-color: #382b73 !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #382b73 !important;
+  border-color: #382b73 !important;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #35abc0 !important;
+  border-color: #35abc0 !important;
+}
+
+.bg-primary {
+  background-color: #382b73 !important;
+  color: #fff !important;
+}
+
+.bg-secondary {
+  background-color: #35abc0 !important;
+  color: #fff !important;
+}
